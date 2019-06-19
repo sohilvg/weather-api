@@ -1,1 +1,3 @@
 # weather-api
+
+Project Setup
